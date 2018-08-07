@@ -17,8 +17,9 @@
         }
     ],
     "require": {
+        "roave/security-advisories": "dev-master",
         "php": ">=5.3.0",
-        "ejz/core": "~1.0"
+        "michabbb/ejz-core": "dev-master"
     },
     "autoload": {
         "psr-4": {"Ejz\\": "src/Ejz"}
